@@ -1,5 +1,0 @@
-<map id="unit_Flow_wasExecuted" name="unit_Flow_wasExecuted">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,168,57"/>
-<area shape="rect" id="node2" href="$class_flow.html#a2314a9c0c71c71919533fcd2e78d94f3" title="Method that receives a boolean as parameter and sets it as Flow&#39;s execution." alt="" coords="217,5,350,32"/>
-<area shape="rect" id="node3" href="$class_flow.html#a9ba68e893d38730b8bceb449d279f6ef" title="Method that returns a boolean verifying if Flow was executed." alt="" coords="216,56,351,83"/>
-</map>

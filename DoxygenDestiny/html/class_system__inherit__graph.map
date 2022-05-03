@@ -1,4 +1,0 @@
-<map id="System" name="System">
-<area shape="rect" id="node1" title="Class System interface." alt="" coords="31,5,98,32"/>
-<area shape="rect" id="node2" href="$class_system_concrete.html" title="Class SystemConcrete that publicly inherits from the System interface." alt="" coords="5,80,124,107"/>
-</map>

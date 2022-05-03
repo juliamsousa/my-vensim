@@ -1,6 +1,0 @@
-<map id="SystemConcrete::operator=" name="SystemConcrete::operator=">
-<area shape="rect" id="node1" title=" " alt="" coords="5,56,188,83"/>
-<area shape="rect" id="node2" href="$class_system_concrete.html#accd1e4cfd76848838dfdf27c5a6e9a0a" title="Method that returns System&#39;s energy." alt="" coords="242,5,429,32"/>
-<area shape="rect" id="node3" href="$class_system_concrete.html#a98d8a033b5e50b001abf96f17b188a14" title="Method that returns System&#39;s label." alt="" coords="247,56,423,83"/>
-<area shape="rect" id="node4" href="$class_system_concrete.html#a50fdbc4ecea755dc834a7076a0b52e86" title="Method that returns a boolean verifying if the System is connected to a Flow." alt="" coords="236,107,435,133"/>
-</map>

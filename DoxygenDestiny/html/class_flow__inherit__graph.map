@@ -1,6 +1,0 @@
-<map id="Flow" name="Flow">
-<area shape="rect" id="node1" title="Class Flow&#39;s interface." alt="" coords="106,5,155,32"/>
-<area shape="rect" id="node2" href="$class_flow_concrete.html" title="Class FlowConcrete that publicly inherits from the Flow interface ." alt="" coords="80,80,181,107"/>
-<area shape="rect" id="node3" href="$class_exponential_flow.html" title="Class ExponentialFlow that publicly inherits from class FlowConcrete." alt="" coords="5,155,123,181"/>
-<area shape="rect" id="node4" href="$class_logistical_flow.html" title="Class LogisticalFlow that publicly inherits from class FlowConcrete." alt="" coords="147,155,251,181"/>
-</map>

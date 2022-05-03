@@ -1,7 +1,0 @@
-<map id="unit_Model_getFlow" name="unit_Model_getFlow">
-<area shape="rect" id="node1" title=" " alt="" coords="5,81,143,108"/>
-<area shape="rect" id="node2" href="$class_model.html#ab7df81041f62f049cfc6e4d50dcaf721" title="Method that receives a Flow pointer as parameter and adds it to the Model conteiner." alt="" coords="203,5,289,32"/>
-<area shape="rect" id="node3" href="$class_model.html#a106b936e89b9eb16a0f328e507c621ff" title="Method that receives a string as parameter and returns a Flow pointer according to its label." alt="" coords="191,56,301,83"/>
-<area shape="rect" id="node4" href="$class_flow.html#a3f74f1bfb3e92a2d2f15ddd47275a38c" title="Method that returns Flow&#39;s label." alt="" coords="193,107,299,133"/>
-<area shape="rect" id="node5" href="$class_flow.html#a10d25553e6c0a739a2ee856ab38936d5" title="Method that receives a string as parameter and sets it as Flow&#39;s label." alt="" coords="193,157,299,184"/>
-</map>

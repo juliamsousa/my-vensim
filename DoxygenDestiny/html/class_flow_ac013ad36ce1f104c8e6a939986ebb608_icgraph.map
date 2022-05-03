@@ -1,8 +1,0 @@
-<map id="Flow::isConnected" name="Flow::isConnected">
-<area shape="rect" id="node1" title="Method that returns a boolean verifying if Flow is connected to Systems." alt="" coords="660,31,789,57"/>
-<area shape="rect" id="node2" href="$unit___flow_8h.html#a551f12f6e97541e1267f708d73c4d73b" title=" " alt="" coords="451,5,607,32"/>
-<area shape="rect" id="node6" href="$unit___flow_8h.html#a516cdfba92216a5ecf7c6573fa739704" title=" " alt="" coords="445,56,612,83"/>
-<area shape="rect" id="node3" href="$unit___flow_8h.html#a6683c1fa1a8445fa330116af20af24dc" title=" " alt="" coords="267,31,397,57"/>
-<area shape="rect" id="node4" href="$main__unit__tests_8h.html#a0ae14c4b452ca9ad709bf0d220bea688" title="Method that calls the unit tests for System, Flow and Model." alt="" coords="104,31,219,57"/>
-<area shape="rect" id="node5" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,31,56,57"/>
-</map>

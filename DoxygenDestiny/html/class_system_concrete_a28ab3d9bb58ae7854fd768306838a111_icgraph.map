@@ -1,7 +1,0 @@
-<map id="SystemConcrete::setLabel" name="SystemConcrete::setLabel">
-<area shape="rect" id="node1" title="Method that receives a string as parameter and sets it as System&#39;s label." alt="" coords="661,5,837,32"/>
-<area shape="rect" id="node2" href="$unit___system_8h.html#a6a24dfb2c2dde73742e16e8d8a9282d8" title=" " alt="" coords="464,5,613,32"/>
-<area shape="rect" id="node3" href="$unit___system_8h.html#a508d8501edd77719732fca2f7985d316" title=" " alt="" coords="267,5,416,32"/>
-<area shape="rect" id="node4" href="$main__unit__tests_8h.html#a0ae14c4b452ca9ad709bf0d220bea688" title="Method that calls the unit tests for System, Flow and Model." alt="" coords="104,5,219,32"/>
-<area shape="rect" id="node5" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,5,56,32"/>
-</map>

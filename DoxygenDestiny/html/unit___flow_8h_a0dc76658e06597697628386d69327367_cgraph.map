@@ -1,7 +1,0 @@
-<map id="unit_Flow_getSource" name="unit_Flow_getSource">
-<area shape="rect" id="node1" title=" " alt="" coords="5,81,148,108"/>
-<area shape="rect" id="node2" href="$class_system.html#a0b45eff5eda940790b95b0553eb0f3b6" title="Method that returns System&#39;s label." alt="" coords="196,5,320,32"/>
-<area shape="rect" id="node3" href="$class_flow.html#ac4060eca7a83b8eeedf83b7823dd0ec8" title="Method that returns a System pointer for Flow&#39;s source." alt="" coords="200,56,316,83"/>
-<area shape="rect" id="node4" href="$class_system.html#a4e4dfb21fa421498ea7e446a93da8d74" title="Method that receives a string as parameter and sets it as System&#39;s label." alt="" coords="196,107,320,133"/>
-<area shape="rect" id="node5" href="$class_flow.html#a42ce99a961622788ae59bb73abad3bb3" title="Method that receives a System pointer and sets it as Flow&#39;s source." alt="" coords="200,157,316,184"/>
-</map>

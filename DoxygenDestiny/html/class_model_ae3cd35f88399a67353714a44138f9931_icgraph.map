@@ -1,8 +1,0 @@
-<map id="Model::createFlow" name="Model::createFlow">
-<area shape="rect" id="node1" title="Method that creates a new flow and returns it." alt="" coords="539,56,667,83"/>
-<area shape="rect" id="node2" href="$functional__tests_8h.html#ac0e527144db175774672cd30bb03de22" title="Complex execution functional test." alt="" coords="301,5,490,32"/>
-<area shape="rect" id="node5" href="$functional__tests_8h.html#a1ccf418254ab84dc06fe13f5df424012" title="Functional tests for Model&#39;s execution." alt="" coords="310,56,481,83"/>
-<area shape="rect" id="node6" href="$functional__tests_8h.html#adfd142bca3722f07529774ba7285958f" title="Logistical execution functional test." alt="" coords="300,107,491,133"/>
-<area shape="rect" id="node3" href="$main__functional__tests_8h.html#a8a125d38f219ea188e9ff8abe483bd40" title="Method that calls all the functional tests." alt="" coords="104,56,252,83"/>
-<area shape="rect" id="node4" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,56,56,83"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="Flow::getDestiny" name="Flow::getDestiny">
-<area shape="rect" id="node1" title="Method that returns a System pointer for Flow&#39;s destiny." alt="" coords="651,56,769,83"/>
-<area shape="rect" id="node2" href="$unit___flow_8h.html#a52f3ff0351473250da2bc9e293c72445" title=" " alt="" coords="445,5,603,32"/>
-<area shape="rect" id="node6" href="$unit___flow_8h.html#a8d902e365191662fb3d3067217807440" title=" " alt="" coords="451,56,597,83"/>
-<area shape="rect" id="node7" href="$unit___flow_8h.html#afb82d610c65a0a4a5ca61da479e11195" title=" " alt="" coords="451,107,597,133"/>
-<area shape="rect" id="node3" href="$unit___flow_8h.html#a6683c1fa1a8445fa330116af20af24dc" title=" " alt="" coords="267,56,397,83"/>
-<area shape="rect" id="node4" href="$main__unit__tests_8h.html#a0ae14c4b452ca9ad709bf0d220bea688" title="Method that calls the unit tests for System, Flow and Model." alt="" coords="104,56,219,83"/>
-<area shape="rect" id="node5" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,56,56,83"/>
-</map>

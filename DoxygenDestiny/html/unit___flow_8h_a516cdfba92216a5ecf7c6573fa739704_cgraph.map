@@ -1,5 +1,0 @@
-<map id="unit_Flow_setConnection" name="unit_Flow_setConnection">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,172,57"/>
-<area shape="rect" id="node2" href="$class_flow.html#ac013ad36ce1f104c8e6a939986ebb608" title="Method that returns a boolean verifying if Flow is connected to Systems." alt="" coords="225,5,355,32"/>
-<area shape="rect" id="node3" href="$class_flow.html#a68566b3a2d3d19879c2bd10f267a24a1" title="Method that receives a boolean as parameter and sets it as Flow&#39;s connection." alt="" coords="220,56,360,83"/>
-</map>

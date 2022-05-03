@@ -1,7 +1,0 @@
-<map id="unit_Model_getSystem" name="unit_Model_getSystem">
-<area shape="rect" id="node1" title=" " alt="" coords="5,81,160,108"/>
-<area shape="rect" id="node2" href="$class_model.html#ab7df81041f62f049cfc6e4d50dcaf721" title="Method that receives a Flow pointer as parameter and adds it to the Model conteiner." alt="" coords="229,5,315,32"/>
-<area shape="rect" id="node3" href="$class_system.html#a0b45eff5eda940790b95b0553eb0f3b6" title="Method that returns System&#39;s label." alt="" coords="210,56,334,83"/>
-<area shape="rect" id="node4" href="$class_model.html#a4bb432ae73f9564c7e550af16d528d64" title="Method that receives a string as parameter and returns a System pointer according to its label." alt="" coords="208,107,336,133"/>
-<area shape="rect" id="node5" href="$class_system.html#a4e4dfb21fa421498ea7e446a93da8d74" title="Method that receives a string as parameter and sets it as System&#39;s label." alt="" coords="210,157,334,184"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="ModelConcrete::remove" name="ModelConcrete::remove">
-<area shape="rect" id="node1" title="Method that receives a string as parameter and removes a System from the conteiner according to its l..." alt="" coords="5,5,164,32"/>
-<area shape="rect" id="node2" href="$class_system.html#a0b45eff5eda940790b95b0553eb0f3b6" title="Method that returns System&#39;s label." alt="" coords="212,5,336,32"/>
-</map>

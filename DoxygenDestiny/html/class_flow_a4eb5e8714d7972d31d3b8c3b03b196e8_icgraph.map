@@ -1,8 +1,0 @@
-<map id="Flow::setDestiny" name="Flow::setDestiny">
-<area shape="rect" id="node1" title="Method that receives a System pointer and sets it as FlowConcrete&#39;s destiny." alt="" coords="640,31,759,57"/>
-<area shape="rect" id="node2" href="$unit___flow_8h.html#a8d902e365191662fb3d3067217807440" title=" " alt="" coords="445,5,592,32"/>
-<area shape="rect" id="node6" href="$unit___flow_8h.html#afb82d610c65a0a4a5ca61da479e11195" title=" " alt="" coords="445,56,592,83"/>
-<area shape="rect" id="node3" href="$unit___flow_8h.html#a6683c1fa1a8445fa330116af20af24dc" title=" " alt="" coords="267,31,397,57"/>
-<area shape="rect" id="node4" href="$main__unit__tests_8h.html#a0ae14c4b452ca9ad709bf0d220bea688" title="Method that calls the unit tests for System, Flow and Model." alt="" coords="104,31,219,57"/>
-<area shape="rect" id="node5" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,31,56,57"/>
-</map>
