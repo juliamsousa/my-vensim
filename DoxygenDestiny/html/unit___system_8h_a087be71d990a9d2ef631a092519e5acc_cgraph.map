@@ -1,0 +1,5 @@
+<map id="unit_System_setEnergy" name="unit_System_setEnergy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,167,57"/>
+<area shape="rect" id="node2" href="$class_system.html#af7b9fc442cd9b9b4bd0c9255bd0f814e" title="Method that returns System&#39;s energy." alt="" coords="215,5,349,32"/>
+<area shape="rect" id="node3" href="$class_system.html#a166da437bb4336aae168e1d8e23a2931" title="Method that receives a float as parameter and sets it as System&#39;s energy." alt="" coords="215,56,349,83"/>
+</map>

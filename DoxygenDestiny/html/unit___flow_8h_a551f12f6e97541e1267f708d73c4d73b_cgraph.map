@@ -1,0 +1,5 @@
+<map id="unit_Flow_isConnected" name="unit_Flow_isConnected">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,161,57"/>
+<area shape="rect" id="node2" href="$class_flow.html#ac013ad36ce1f104c8e6a939986ebb608" title="Method that returns a boolean verifying if Flow is connected to Systems." alt="" coords="215,5,344,32"/>
+<area shape="rect" id="node3" href="$class_flow.html#a68566b3a2d3d19879c2bd10f267a24a1" title="Method that receives a boolean as parameter and sets it as Flow&#39;s connection." alt="" coords="209,56,349,83"/>
+</map>

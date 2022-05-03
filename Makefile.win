@@ -1,0 +1,49 @@
+# Project: Project1
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = src/FlowConcrete.o src/main.o src/ModelConcrete.o src/SystemConcrete.o test/functional/functional_tests.o test/unit/unit_Flow.o test/unit/unit_Model.o test/unit/unit_System.o
+LINKOBJ  = src/FlowConcrete.o src/main.o src/ModelConcrete.o src/SystemConcrete.o test/functional/functional_tests.o test/unit/unit_Flow.o test/unit/unit_Model.o test/unit/unit_System.o
+LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
+BIN      = fabrica.exe
+CXXFLAGS = $(CXXINCS) 
+CFLAGS   = $(INCS) 
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+src/FlowConcrete.o: src/FlowConcrete.cpp
+	$(CPP) -c src/FlowConcrete.cpp -o src/FlowConcrete.o $(CXXFLAGS)
+
+src/main.o: src/main.cpp
+	$(CPP) -c src/main.cpp -o src/main.o $(CXXFLAGS)
+
+src/ModelConcrete.o: src/ModelConcrete.cpp
+	$(CPP) -c src/ModelConcrete.cpp -o src/ModelConcrete.o $(CXXFLAGS)
+
+src/SystemConcrete.o: src/SystemConcrete.cpp
+	$(CPP) -c src/SystemConcrete.cpp -o src/SystemConcrete.o $(CXXFLAGS)
+
+test/functional/functional_tests.o: test/functional/functional_tests.cpp
+	$(CPP) -c test/functional/functional_tests.cpp -o test/functional/functional_tests.o $(CXXFLAGS)
+
+test/unit/unit_Flow.o: test/unit/unit_Flow.cpp
+	$(CPP) -c test/unit/unit_Flow.cpp -o test/unit/unit_Flow.o $(CXXFLAGS)
+
+test/unit/unit_Model.o: test/unit/unit_Model.cpp
+	$(CPP) -c test/unit/unit_Model.cpp -o test/unit/unit_Model.o $(CXXFLAGS)
+
+test/unit/unit_System.o: test/unit/unit_System.cpp
+	$(CPP) -c test/unit/unit_System.cpp -o test/unit/unit_System.o $(CXXFLAGS)

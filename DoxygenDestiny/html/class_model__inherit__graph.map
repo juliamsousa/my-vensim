@@ -1,0 +1,4 @@
+<map id="Model" name="Model">
+<area shape="rect" id="node1" title="Class Model interface." alt="" coords="31,5,89,32"/>
+<area shape="rect" id="node2" href="$class_model_concrete.html" title="Class ModelConcrete that publicly inherits from the Model interface." alt="" coords="5,80,115,107"/>
+</map>

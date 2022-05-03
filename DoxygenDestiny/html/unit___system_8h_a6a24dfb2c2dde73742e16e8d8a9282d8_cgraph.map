@@ -1,0 +1,6 @@
+<map id="unit_System_operator" name="unit_System_operator">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,155,83"/>
+<area shape="rect" id="node2" href="$class_system.html#a0b45eff5eda940790b95b0553eb0f3b6" title="Method that returns System&#39;s label." alt="" coords="229,5,353,32"/>
+<area shape="rect" id="node3" href="$class_system_concrete.html#a98d8a033b5e50b001abf96f17b188a14" title="Method that returns System&#39;s label." alt="" coords="203,56,379,83"/>
+<area shape="rect" id="node4" href="$class_system_concrete.html#a28ab3d9bb58ae7854fd768306838a111" title="Method that receives a string as parameter and sets it as System&#39;s label." alt="" coords="203,107,379,133"/>
+</map>

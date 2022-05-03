@@ -1,0 +1,13 @@
+<map id="Flow::setLabel" name="Flow::setLabel">
+<area shape="rect" id="node1" title="Method that receives a string as parameter and sets it as Flow&#39;s label." alt="" coords="681,132,788,159"/>
+<area shape="rect" id="node2" href="$class_model_concrete.html#a05c6ed385d9c605f7e453df209dc2237" title="Method that creates a new flow and returns it." alt="" coords="453,5,633,32"/>
+<area shape="rect" id="node3" href="$unit___flow_8h.html#a3be07301bd454a2555ea1163077e9907" title=" " alt="" coords="477,56,610,83"/>
+<area shape="rect" id="node7" href="$unit___flow_8h.html#af76a2a0daf4e63c36ed4d9b6b9e00992" title=" " alt="" coords="477,107,610,133"/>
+<area shape="rect" id="node8" href="$unit___model_8h.html#a2976f32130aebaafb8ee662fbd37c8a4" title=" " alt="" coords="487,157,600,184"/>
+<area shape="rect" id="node10" href="$unit___model_8h.html#a5405e4ad382f91d5487d8c8c30567b24" title=" " alt="" coords="475,208,612,235"/>
+<area shape="rect" id="node11" href="$unit___model_8h.html#a715f4c3a8d16f4fa8558fa5661939bc3" title=" " alt="" coords="477,259,610,285"/>
+<area shape="rect" id="node4" href="$unit___flow_8h.html#a6683c1fa1a8445fa330116af20af24dc" title=" " alt="" coords="271,107,401,133"/>
+<area shape="rect" id="node5" href="$main__unit__tests_8h.html#a0ae14c4b452ca9ad709bf0d220bea688" title="Method that calls the unit tests for System, Flow and Model." alt="" coords="104,132,219,159"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,132,56,159"/>
+<area shape="rect" id="node9" href="$unit___model_8h.html#a2114674c26fbc871eec94221b3252a39" title=" " alt="" coords="267,183,405,209"/>
+</map>

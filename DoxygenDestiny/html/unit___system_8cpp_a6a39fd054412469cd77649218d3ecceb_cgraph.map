@@ -1,0 +1,5 @@
+<map id="unit_System_constructor" name="unit_System_constructor">
+<area shape="rect" id="node1" title="Unit tests for System implementation." alt="" coords="5,31,172,57"/>
+<area shape="rect" id="node2" href="$class_system.html#ab9e7d0a6593fcc2cb4cfaf346af08998" title="Method that returns a boolean verifying if the System is connected to a Flow." alt="" coords="226,5,373,32"/>
+<area shape="rect" id="node3" href="$class_system.html#a0b6353d2046c16f43adc21e67029ceaa" title="Method that receives a boolean as parameter and sets it as System&#39;s connection." alt="" coords="220,56,379,83"/>
+</map>

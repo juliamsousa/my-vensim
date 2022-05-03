@@ -1,0 +1,20 @@
+<map id="System::getLabel" name="System::getLabel">
+<area shape="rect" id="node1" title="Method that returns System&#39;s label." alt="" coords="671,284,795,311"/>
+<area shape="rect" id="node2" href="$class_model_concrete.html#aeb0902566c3968888544f1660b1b23dd" title="Method that receives a string as parameter and removes a System from the conteiner according to its l..." alt="" coords="464,5,623,32"/>
+<area shape="rect" id="node3" href="$unit___flow_8h.html#a8d902e365191662fb3d3067217807440" title=" " alt="" coords="470,56,617,83"/>
+<area shape="rect" id="node7" href="$unit___flow_8h.html#a0dc76658e06597697628386d69327367" title=" " alt="" coords="472,107,615,133"/>
+<area shape="rect" id="node8" href="$unit___flow_8h.html#afb82d610c65a0a4a5ca61da479e11195" title=" " alt="" coords="470,157,617,184"/>
+<area shape="rect" id="node9" href="$unit___flow_8h.html#a213cf3a2bd094e466707a33416124ce4" title=" " alt="" coords="472,208,615,235"/>
+<area shape="rect" id="node10" href="$unit___model_8h.html#aa7898f211cce45b2505d5b6a6e0b1a90" title=" " alt="" coords="487,259,600,285"/>
+<area shape="rect" id="node11" href="$unit___model_8h.html#a33c89b15c9a9fa91b3753cba55af695b" title="Unit tests for class Model." alt="" coords="465,309,622,336"/>
+<area shape="rect" id="node13" href="$unit___model_8h.html#a3bf1b1592a64ee77c08fdd074c47abb7" title=" " alt="" coords="466,360,621,387"/>
+<area shape="rect" id="node14" href="$unit___model_8h.html#a0c3483cb63be6a8b1f20375d076a3647" title=" " alt="" coords="477,411,610,437"/>
+<area shape="rect" id="node15" href="$unit___system_8h.html#a14eda308a3a602774f1317c80dcfc61d" title=" " alt="" coords="468,461,619,488"/>
+<area shape="rect" id="node17" href="$unit___system_8h.html#a6a24dfb2c2dde73742e16e8d8a9282d8" title=" " alt="" coords="469,512,618,539"/>
+<area shape="rect" id="node18" href="$unit___system_8h.html#a4c207fea3fb4c34b3d40906939f2fa80" title=" " alt="" coords="468,563,619,589"/>
+<area shape="rect" id="node4" href="$unit___flow_8h.html#a6683c1fa1a8445fa330116af20af24dc" title=" " alt="" coords="276,157,407,184"/>
+<area shape="rect" id="node5" href="$main__unit__tests_8h.html#a0ae14c4b452ca9ad709bf0d220bea688" title="Method that calls the unit tests for System, Flow and Model." alt="" coords="104,335,219,361"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,335,56,361"/>
+<area shape="rect" id="node12" href="$unit___model_8h.html#a2114674c26fbc871eec94221b3252a39" title=" " alt="" coords="272,335,411,361"/>
+<area shape="rect" id="node16" href="$unit___system_8h.html#a508d8501edd77719732fca2f7985d316" title=" " alt="" coords="267,487,416,513"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="System::setEnergy" name="System::setEnergy">
+<area shape="rect" id="node1" title="Method that receives a float as parameter and sets it as System&#39;s energy." alt="" coords="711,56,845,83"/>
+<area shape="rect" id="node2" href="$class_model_concrete.html#a4fe1a01f41ab8946cc70ec703fae521f" title="Method that creates a new system and returns it." alt="" coords="464,5,663,32"/>
+<area shape="rect" id="node3" href="$unit___system_8h.html#a66c78312f9ce9e2c4d824701c240ab09" title=" " alt="" coords="483,56,644,83"/>
+<area shape="rect" id="node7" href="$unit___system_8h.html#a087be71d990a9d2ef631a092519e5acc" title=" " alt="" coords="483,107,644,133"/>
+<area shape="rect" id="node4" href="$unit___system_8h.html#a508d8501edd77719732fca2f7985d316" title=" " alt="" coords="267,81,416,108"/>
+<area shape="rect" id="node5" href="$main__unit__tests_8h.html#a0ae14c4b452ca9ad709bf0d220bea688" title="Method that calls the unit tests for System, Flow and Model." alt="" coords="104,81,219,108"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,81,56,108"/>
+</map>

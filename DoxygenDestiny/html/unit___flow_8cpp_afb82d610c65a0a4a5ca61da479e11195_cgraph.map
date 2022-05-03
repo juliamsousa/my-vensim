@@ -1,0 +1,7 @@
+<map id="unit_Flow_setDestiny" name="unit_Flow_setDestiny">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,152,108"/>
+<area shape="rect" id="node2" href="$class_flow.html#aa262c41bc00051944bbc09065bed7892" title="Method that returns a System pointer for Flow&#39;s destiny." alt="" coords="203,5,321,32"/>
+<area shape="rect" id="node3" href="$class_system.html#a0b45eff5eda940790b95b0553eb0f3b6" title="Method that returns System&#39;s label." alt="" coords="200,56,324,83"/>
+<area shape="rect" id="node4" href="$class_flow.html#a4eb5e8714d7972d31d3b8c3b03b196e8" title="Method that receives a System pointer and sets it as FlowConcrete&#39;s destiny." alt="" coords="203,107,321,133"/>
+<area shape="rect" id="node5" href="$class_system.html#a4e4dfb21fa421498ea7e446a93da8d74" title="Method that receives a string as parameter and sets it as System&#39;s label." alt="" coords="200,157,324,184"/>
+</map>

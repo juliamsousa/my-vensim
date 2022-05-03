@@ -1,0 +1,15 @@
+<map id="Flow::getLabel" name="Flow::getLabel">
+<area shape="rect" id="node1" title="Method that returns Flow&#39;s label." alt="" coords="720,183,827,209"/>
+<area shape="rect" id="node2" href="$class_model_concrete.html#ac0481422c7a6fb315d5ecdc1e916cd09" title="Method that receives a string as parameter and removes a Flow from the conteiner according to its lab..." alt="" coords="483,5,642,32"/>
+<area shape="rect" id="node3" href="$unit___flow_8cpp.html#aac6c8c5dfc87571bf6bedcdced473799" title=" " alt="" coords="453,56,672,83"/>
+<area shape="rect" id="node7" href="$unit___flow_8h.html#a3be07301bd454a2555ea1163077e9907" title=" " alt="" coords="496,107,629,133"/>
+<area shape="rect" id="node8" href="$unit___flow_8h.html#a1b30cb7a5b0752fc3e60fbdf065d1f24" title=" " alt="" coords="497,157,628,184"/>
+<area shape="rect" id="node9" href="$unit___flow_8h.html#af76a2a0daf4e63c36ed4d9b6b9e00992" title=" " alt="" coords="496,208,629,235"/>
+<area shape="rect" id="node10" href="$unit___model_8h.html#a2976f32130aebaafb8ee662fbd37c8a4" title=" " alt="" coords="506,259,619,285"/>
+<area shape="rect" id="node12" href="$unit___model_8h.html#a5405e4ad382f91d5487d8c8c30567b24" title=" " alt="" coords="494,309,631,336"/>
+<area shape="rect" id="node13" href="$unit___model_8h.html#a715f4c3a8d16f4fa8558fa5661939bc3" title=" " alt="" coords="496,360,629,387"/>
+<area shape="rect" id="node4" href="$unit___flow_8h.html#a6683c1fa1a8445fa330116af20af24dc" title=" " alt="" coords="271,157,401,184"/>
+<area shape="rect" id="node5" href="$main__unit__tests_8h.html#a0ae14c4b452ca9ad709bf0d220bea688" title="Method that calls the unit tests for System, Flow and Model." alt="" coords="104,208,219,235"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,208,56,235"/>
+<area shape="rect" id="node11" href="$unit___model_8h.html#a2114674c26fbc871eec94221b3252a39" title=" " alt="" coords="267,284,405,311"/>
+</map>

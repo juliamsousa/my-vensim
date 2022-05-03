@@ -1,0 +1,6 @@
+<map id="unit_Flow_connectFlow" name="unit_Flow_connectFlow">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,163,83"/>
+<area shape="rect" id="node2" href="$class_flow.html#a5b416e9cffcda95c9d6fb586cff89642" title="Method that receives System pointers and sets them as Destiny and Source for Flow." alt="" coords="211,5,341,32"/>
+<area shape="rect" id="node3" href="$class_flow.html#aa262c41bc00051944bbc09065bed7892" title="Method that returns a System pointer for Flow&#39;s destiny." alt="" coords="217,56,335,83"/>
+<area shape="rect" id="node4" href="$class_flow.html#ac4060eca7a83b8eeedf83b7823dd0ec8" title="Method that returns a System pointer for Flow&#39;s source." alt="" coords="218,107,334,133"/>
+</map>

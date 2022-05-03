@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_flow.html" title="Class Flow&#39;s interface." alt="" coords="5,31,55,57"/>
+<area shape="rect" id="node2" href="$class_flow_concrete.html" title="Class FlowConcrete that publicly inherits from the Flow interface ." alt="" coords="103,31,204,57"/>
+<area shape="rect" id="node3" href="$class_exponential_flow.html" title="Class ExponentialFlow that publicly inherits from class FlowConcrete." alt="" coords="252,5,369,32"/>
+<area shape="rect" id="node4" href="$class_logistical_flow.html" title="Class LogisticalFlow that publicly inherits from class FlowConcrete." alt="" coords="259,56,363,83"/>
+</map>

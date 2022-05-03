@@ -1,0 +1,4 @@
+<map id="ModelConcrete::createFlow" name="ModelConcrete::createFlow">
+<area shape="rect" id="node1" title="Method that creates a new flow and returns it." alt="" coords="5,5,185,32"/>
+<area shape="rect" id="node2" href="$class_flow.html#a10d25553e6c0a739a2ee856ab38936d5" title="Method that receives a string as parameter and sets it as Flow&#39;s label." alt="" coords="233,5,340,32"/>
+</map>

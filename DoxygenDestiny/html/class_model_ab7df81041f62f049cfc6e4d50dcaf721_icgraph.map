@@ -1,0 +1,11 @@
+<map id="Model::add" name="Model::add">
+<area shape="rect" id="node1" title="Method that receives a Flow pointer as parameter and adds it to the Model conteiner." alt="" coords="659,107,745,133"/>
+<area shape="rect" id="node2" href="$unit___model_8h.html#a2976f32130aebaafb8ee662fbd37c8a4" title=" " alt="" coords="475,5,589,32"/>
+<area shape="rect" id="node6" href="$unit___model_8h.html#a33c89b15c9a9fa91b3753cba55af695b" title="Unit tests for class Model." alt="" coords="453,56,611,83"/>
+<area shape="rect" id="node7" href="$unit___model_8h.html#a5405e4ad382f91d5487d8c8c30567b24" title=" " alt="" coords="463,107,601,133"/>
+<area shape="rect" id="node8" href="$unit___model_8h.html#a3bf1b1592a64ee77c08fdd074c47abb7" title=" " alt="" coords="455,157,609,184"/>
+<area shape="rect" id="node9" href="$unit___model_8h.html#a715f4c3a8d16f4fa8558fa5661939bc3" title=" " alt="" coords="465,208,599,235"/>
+<area shape="rect" id="node3" href="$unit___model_8h.html#a2114674c26fbc871eec94221b3252a39" title=" " alt="" coords="267,107,405,133"/>
+<area shape="rect" id="node4" href="$main__unit__tests_8h.html#a0ae14c4b452ca9ad709bf0d220bea688" title="Method that calls the unit tests for System, Flow and Model." alt="" coords="104,107,219,133"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,107,56,133"/>
+</map>
